@@ -1,4 +1,4 @@
-# amazon_ecommerce
+# Amazon eCommerce Flutter
 
 A new Flutter project.
 
