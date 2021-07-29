@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
       ),
       extendBody: true,
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
-      floatingActionButton: BuildFAB(),
+      floatingActionButton: const BuildFAB(),
       bottomNavigationBar: buildNavigationBar(),
     );
   }

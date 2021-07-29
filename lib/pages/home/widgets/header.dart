@@ -8,11 +8,13 @@ List<Widget> buildHeader() => [
           left: 2 * Constants.kPadding,
           top: Constants.kPadding,
         ),
-        child: Text("Bookshelf",
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              fontSize: 25,
-            )),
+        child: Text(
+          "Bookshelf",
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+            fontSize: 25,
+          ),
+        ),
       ),
       const Padding(
         padding: EdgeInsets.symmetric(
